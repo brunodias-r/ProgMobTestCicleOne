@@ -1,1 +1,3 @@
-Avaliação do ciclo 1: Bruno Dias, Gabriel Porto e João Lucas
+Avaliação do ciclo 1
+
+Integrantes: Bruno Rodrigues, Gabriel Porto e João Lucas
